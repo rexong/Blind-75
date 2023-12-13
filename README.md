@@ -4,6 +4,7 @@
 This repo is documenting my attempt on the Blind 75 questions using Python.
 
 ## Progress
+![6%](https://progress-bar.dev/6)
 |Question                                                    | Completed? |
 |------------------------------------------------------------|------------|
 |Two Sum	                                                   | &#9745;    |
