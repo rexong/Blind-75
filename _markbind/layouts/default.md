@@ -24,6 +24,7 @@
 * Arrays & Hashing 
   * [Contains Duplicate]({{ baseUrl }}/contents/arrays-and-hashing/contains-duplicate.html)
   * [Valid Anagram]({{ baseUrl }}/contents/arrays-and-hashing/valid-anagram.html)
+  * [Two Sum]({{ baseUrl }}/contents/arrays-and-hashing/two-sum.html)
 * Stack
   * [Valid Parentheses]({{ baseUrl }}/contents/stack/valid-parentheses.html)
       </site-nav>
