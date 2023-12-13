@@ -8,6 +8,15 @@
       "headingKeywords": {}
     },
     {
+      "src": "README.md",
+      "headings": {
+        "blind-75-solution": "Blind 75 Solution",
+        "about": "About",
+        "progress": "Progress"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "contents/arrays-and-hashing/contains-duplicate.md",
       "title": "Arrays & Hashing - Contains Duplicate",
       "headings": {
