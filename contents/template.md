@@ -32,3 +32,13 @@ class SomeSolution:
 ```
 </panel>
 
+<box type="info" header="##### Special Tips">
+  <md>
+    Markdown Text can be added in here
+  </md> 
+
+  ```python
+  def someFunction():
+    pass
+  ```
+</box>
