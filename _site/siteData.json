@@ -35,6 +35,7 @@
     },
     {
       "src": "contents/template.md",
+      "title": "Category - Question Title",
       "headings": {
         "question-title-https-leetcode-com-problems-insert-something-here": "[{Question Title}](https://leetcode.com/problems/{Insert Something Here}/)",
         "intuition": "Intuition",

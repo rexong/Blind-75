@@ -1,5 +1,5 @@
 <frontmatter>
-  title: {Category} - {Question Title}
+  title: Category - Question Title
 </frontmatter>
 
 # [{Question Title}](https://leetcode.com/problems/{Insert Something Here}/)
