@@ -23,8 +23,8 @@ Then recurse the function on both children.
 ### Complexity
 #### Time Complexity: O(n)
 Every node has to have its children swap, hence every node is visited once and only once.
-#### Space Complexity: O(1)
-No extra data sturcture required, hence constant space.
+#### Space Complexity: O(n)
+Recursion stack takes up memory space for every node. Hence, linear space.
 ### Solution
 <panel header="Don't cheat yourself" type="dark">
 
