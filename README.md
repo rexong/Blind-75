@@ -4,7 +4,7 @@
 This repo is documenting my attempt on the Blind 75 questions using Python.
 
 ## Progress
-![14%](https://progress-bar.dev/6) [9/63]
+![20%](https://progress-bar.dev/20) [13/63]
 |Question                                                    | Completed? |
 |------------------------------------------------------------|------------|
 |Two Sum	                                                   | &#9745;    |
@@ -30,7 +30,7 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 |Palindromic Substrings	                                     | &#9744;    |
 |Pacific Atlantic Water Flow                                 | &#9744;    |
 |Minimum Window Substring                                    | &#9744;    |
-|Invert/Flip Binary Tree	                                   | &#9744;    |
+|Invert/Flip Binary Tree	                                   | &#9745;    |
 |Validate Binary Search Tree	                               | &#9744;    |
 |Non-overlapping Intervals	                                 | &#9744;    |
 |Construct Binary Tree from Preorder and Inorder Traversal   | &#9744;    |
@@ -39,7 +39,7 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 |Course Schedule	                                           | &#9744;    |
 |Serialize and Deserialize Binary Tree                       | &#9744;    |
 |Binary Tree Maximum Path Sum                                | &#9744;    |
-|Subtree of Another Tree	                                   | &#9744;    |
+|Subtree of Another Tree	                                   | &#9745;    |
 |Lowest Common Ancestor of BST	                             | &#9744;    |
 |Implement Trie (Prefix Tree)	                               | &#9744;    |
 |Add and Search Word	                                       | &#9744;    |
@@ -64,8 +64,8 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 |Graph Valid Tree                                            | &#9744;    |
 |Number of Connected Components in an Undirected Graph       | &#9744;    |
 |Alien Dictionary                                            | &#9744;    |
-|Maximum Depth of Binary Tree                                | &#9744;    |
-|Same Tree	                                                 | &#9744;    |
+|Maximum Depth of Binary Tree                                | &#9745;    |
+|Same Tree	                                                 | &#9745;    |
 |Binary Tree Level Order Traversal                           | &#9744;    |
 |Encode and Decode Strings                                   | &#9744;    |
 |Maximum Product Subarray                                    | &#9744;    |
