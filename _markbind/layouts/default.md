@@ -27,6 +27,8 @@
   * [Two Sum]({{ baseUrl }}/contents/arrays-and-hashing/two-sum.html)
 * Stack
   * [Valid Parentheses]({{ baseUrl }}/contents/stack/valid-parentheses.html)
+* Two Pointer
+  * [Valid Palindrome]({{ baseUrl }}/contents/two-pointer/valid-palindrome.html)
       </site-nav>
     </div>
   </nav>

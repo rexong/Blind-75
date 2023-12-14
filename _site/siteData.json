@@ -82,6 +82,19 @@
       "headingKeywords": {}
     },
     {
+      "src": "contents/two-pointer/valid-palindrome.md",
+      "title": "Two Pointer - Valid Palindrome",
+      "headings": {
+        "valid-palindrome": "Valid Palindrome",
+        "intuition": "Intuition",
+        "contraints": "Contraints",
+        "approach": "Approach",
+        "complexity": "Complexity",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "index.md",
       "title": "Blind 75 - Home Page",
       "headings": {},
