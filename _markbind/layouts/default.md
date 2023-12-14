@@ -38,6 +38,7 @@
 * Trees
   * [Invert Binary Tree]({{ baseUrl }}/contents/trees/invert-binary-tree.html)
   * [Maximum Depth of Binary Tree]({{ baseUrl }}/contents/trees/maximum-depth-of-binary-tree.html)
+  * [Same Tree]({{ baseUrl }}/contents/trees/same-tree.html)
       </site-nav>
     </div>
   </nav>
