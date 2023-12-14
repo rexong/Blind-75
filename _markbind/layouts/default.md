@@ -29,6 +29,8 @@
   * [Valid Parentheses]({{ baseUrl }}/contents/stack/valid-parentheses.html)
 * Two Pointer
   * [Valid Palindrome]({{ baseUrl }}/contents/two-pointer/valid-palindrome.html)
+* Sliding Window
+  * [Best Time to Buy and Sell Stock]({{ baseUrl }}/contents/sliding-window/best-time-to-buy-and-sell-stock.html)
       </site-nav>
     </div>
   </nav>

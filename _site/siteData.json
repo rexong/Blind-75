@@ -56,6 +56,19 @@
       "headingKeywords": {}
     },
     {
+      "src": "contents/sliding-window/best-time-to-buy-and-sell-stock.md",
+      "title": "Sliding Window - Best Time To Buy And Sell Stock",
+      "headings": {
+        "best-time-to-buy-and-sell-stock": "Best Time To Buy And Sell Stock",
+        "intuition": "Intuition",
+        "contraints": "Contraints",
+        "approach": "Approach",
+        "complexity": "Complexity",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "contents/stack/valid-parentheses.md",
       "title": "Stack - Valid Parentheses",
       "headings": {
