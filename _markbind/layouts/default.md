@@ -40,6 +40,8 @@
   * [Maximum Depth of Binary Tree]({{ baseUrl }}/contents/trees/maximum-depth-of-binary-tree.html)
   * [Same Tree]({{ baseUrl }}/contents/trees/same-tree.html)
   * [Subtree of Another Tree]({{ baseUrl }}/contents/trees/subtree-of-another-tree.html)
+* Bit Manipulation
+  * [Number of 1 Bits]({{ baseUrl }}/contents/bit-manipulation/number-of-1-bits.html)
       </site-nav>
     </div>
   </nav>

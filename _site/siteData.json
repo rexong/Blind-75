@@ -56,6 +56,20 @@
       "headingKeywords": {}
     },
     {
+      "src": "contents/bit-manipulation/number-of-1-bits.md",
+      "title": "Bit Manipulation - Number of 1 Bits",
+      "headings": {
+        "number-of-1-bits": "Number of 1 Bits",
+        "intuition": "Intuition",
+        "contraints": "Contraints",
+        "approach": "Approach",
+        "complexity": "Complexity",
+        "solution": "Solution",
+        "going-the-extra-mile": "Going the Extra Mile"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "contents/linked-list/linked-list-cycle.md",
       "title": "Linked List - Linked List Cycle",
       "headings": {
