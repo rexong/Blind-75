@@ -31,6 +31,8 @@
   * [Valid Palindrome]({{ baseUrl }}/contents/two-pointer/valid-palindrome.html)
 * Sliding Window
   * [Best Time to Buy and Sell Stock]({{ baseUrl }}/contents/sliding-window/best-time-to-buy-and-sell-stock.html)
+* Linked List
+  * [Linked List Cycle]({{ baseUrl }}/contents/linked-list/linked-list-cycle.html)
       </site-nav>
     </div>
   </nav>
