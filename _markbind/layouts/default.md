@@ -37,6 +37,7 @@
   * [Reverse Linked List]({{ baseUrl }}/contents/linked-list/reverse-linked-list.html)
 * Trees
   * [Invert Binary Tree]({{ baseUrl }}/contents/trees/invert-binary-tree.html)
+  * [Maximum Depth of Binary Tree]({{ baseUrl }}/contents/trees/maximum-depth-of-binary-tree.html)
       </site-nav>
     </div>
   </nav>
