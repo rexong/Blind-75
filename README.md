@@ -4,12 +4,12 @@
 This repo is documenting my attempt on the Blind 75 questions using Python.
 
 ## Progress
-![6%](https://progress-bar.dev/6)
+![14%](https://progress-bar.dev/6) [9/63]
 |Question                                                    | Completed? |
 |------------------------------------------------------------|------------|
 |Two Sum	                                                   | &#9745;    |
 |Contains Duplicate                                          | &#9745;    |
-|Best Time to Buy and Sell Stock	                           | &#9744;    |
+|Best Time to Buy and Sell Stock	                           | &#9745;    |
 |Valid Anagram                                               | &#9745;    |
 |Valid Parentheses                                           | &#9745;    |
 |Maximum Subarray	                                           | &#9744;    |
@@ -17,8 +17,10 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 |3Sum	                                                       | &#9744;    |
 |Merge Intervals                                             | &#9744;    |
 |Group Anagrams                                              | &#9744;    |
-|Reverse a Linked List	                                     | &#9744;    |
-|Detect Cycle in a Linked List	                             | &#9744;    |
+|Merge Two Sorted Lists                                      | &#9745;    |
+|Valid Palindrome                                            | &#9745;    |
+|Reverse a Linked List	                                     | &#9745;    |
+|Detect Cycle in a Linked List	                             | &#9745;    |
 |Container With Most Water	                                 | &#9744;    |
 |Find Minimum in Rotated Sorted Array	                       | &#9744;    |
 |Longest Repeating Character Replacement	                   | &#9744;    |
