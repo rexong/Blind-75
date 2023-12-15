@@ -1,4 +1,5 @@
 # Blind 75 Solution
+_Visit the site [here](https://rexong.github.io/Blind-75/)_
 
 ## About
 This repo is documenting my attempt on the Blind 75 questions using Python.
