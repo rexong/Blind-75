@@ -43,6 +43,7 @@
 * Bit Manipulation
   * [Number of 1 Bits]({{ baseUrl }}/contents/bit-manipulation/number-of-1-bits.html)
   * [Counting Bits]({{ baseUrl }}/contents/bit-manipulation/counting-bits.html)
+  * [Reverse Bits]({{ baseUrl }}/contents/bit-manipulation/reverse-bits.html)
       </site-nav>
     </div>
   </nav>
