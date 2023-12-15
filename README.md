@@ -4,7 +4,7 @@
 This repo is documenting my attempt on the Blind 75 questions using Python.
 
 ## Progress
-![20%](https://progress-bar.dev/20) [13/63]
+![25%](https://progress-bar.dev/25) [17/67]
 |Question                                                    | Completed? |
 |------------------------------------------------------------|------------|
 |Two Sum	                                                   | &#9745;    |
@@ -70,3 +70,7 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 |Encode and Decode Strings                                   | &#9744;    |
 |Maximum Product Subarray                                    | &#9744;    |
 |Search in Rotated Sorted Array                              | &#9744;    |
+|Counting Bits                                               | &#9745;    |
+|Missing Number                                              | &#9745;    |
+|Number of 1 Bits                                            | &#9745;    |
+|Reverse Bits                                                | &#9745;    |
