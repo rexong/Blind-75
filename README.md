@@ -5,7 +5,7 @@ _Visit the site [here](https://rexong.github.io/Blind-75/)_
 This repo is documenting my attempt on the Blind 75 questions using Python.
 
 ## Progress
-![25%](https://progress-bar.dev/25) [17/67]
+![29%](https://progress-bar.dev/29) [20/67]
 |Question                                                    | Completed? |
 |------------------------------------------------------------|------------|
 |Two Sum	                                                   | &#9745;    |
@@ -17,15 +17,15 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 |Product of Array Except Self                                | &#9744;    |
 |3Sum	                                                       | &#9744;    |
 |Merge Intervals                                             | &#9744;    |
-|Group Anagrams                                              | &#9744;    |
+|rroup Anagrams                                              | &#9745;    |
 |Merge Two Sorted Lists                                      | &#9745;    |
 |Valid Palindrome                                            | &#9745;    |
 |Reverse a Linked List	                                     | &#9745;    |
 |Detect Cycle in a Linked List	                             | &#9745;    |
-|Container With Most Water	                                 | &#9744;    |
+|Container With Most Water	                                 | &#9745;    |
 |Find Minimum in Rotated Sorted Array	                       | &#9744;    |
 |Longest Repeating Character Replacement	                   | &#9744;    |
-|Longest Substring Without Repeating Characters	             | &#9744;    |
+|Longest Substring Without Repeating Characters	             | &#9745;    |
 |Number of Islands	                                         | &#9744;    |
 |Remove Nth Node From End Of List	                           | &#9744;    |
 |Palindromic Substrings	                                     | &#9744;    |
