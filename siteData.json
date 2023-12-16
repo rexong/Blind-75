@@ -30,6 +30,19 @@
       "headingKeywords": {}
     },
     {
+      "src": "contents/arrays-and-hashing/group-anagrams.md",
+      "title": "Arrays & Hashing - Group Anagrams",
+      "headings": {
+        "group-anagrams": "Group Anagrams",
+        "intuition": "Intuition",
+        "contraints": "Contraints",
+        "approach": "Approach",
+        "complexity": "Complexity",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "contents/arrays-and-hashing/two-sum.md",
       "title": "Array & Hashing - Two Sum",
       "headings": {
@@ -161,6 +174,19 @@
       "headingKeywords": {}
     },
     {
+      "src": "contents/sliding-window/longest-substring-without-repeating-characters.md",
+      "title": "Sliding Window - Longest Substring without Repeating Characters",
+      "headings": {
+        "longest-substring-without-repeating-characters": "Longest Substring without Repeating Characters",
+        "intuition": "Intuition",
+        "contraints": "Contraints",
+        "approach": "Approach",
+        "complexity": "Complexity",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "contents/stack/valid-parentheses.md",
       "title": "Stack - Valid Parentheses",
       "headings": {
@@ -230,6 +256,19 @@
       "title": "Trees - Subtree of Another Tree",
       "headings": {
         "subtree-of-another-tree": "Subtree of Another Tree",
+        "intuition": "Intuition",
+        "contraints": "Contraints",
+        "approach": "Approach",
+        "complexity": "Complexity",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/two-pointer/container-with-most-water.md",
+      "title": "Two Pointer - Container with Most Water",
+      "headings": {
+        "container-with-most-water": "Container with Most Water",
         "intuition": "Intuition",
         "contraints": "Contraints",
         "approach": "Approach",
