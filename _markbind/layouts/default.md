@@ -36,6 +36,7 @@
 * Sliding Window
   * [Best Time to Buy and Sell Stock]({{ baseUrl }}/contents/sliding-window/best-time-to-buy-and-sell-stock.html)
   * [Longest Substring without Repeating Characters]({{ baseUrl }}/contents/sliding-window/longest-substring-without-repeating-characters.html)
+  * [Longest Repeating Character Replacement]({{ baseUrl }}/contents/sliding-window/longest-repeating-character-replacement.html)
 * Linked List
   * [Linked List Cycle]({{ baseUrl }}/contents/linked-list/linked-list-cycle.html)
   * [Merge Two Sorted Lists]({{ baseUrl }}/contents/linked-list/merge-two-sorted-lists.html)

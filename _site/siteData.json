@@ -187,6 +187,19 @@
       "headingKeywords": {}
     },
     {
+      "src": "contents/sliding-window/longest-repeating-character-replacement.md",
+      "title": "Sliding Window - Longest Repeating Character Replacement",
+      "headings": {
+        "longest-repeating-character-replacement": "Longest Repeating Character Replacement",
+        "intuition": "Intuition",
+        "contraints": "Contraints",
+        "approach": "Approach",
+        "complexity": "Complexity",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "contents/sliding-window/longest-substring-without-repeating-characters.md",
       "title": "Sliding Window - Longest Substring without Repeating Characters",
       "headings": {
