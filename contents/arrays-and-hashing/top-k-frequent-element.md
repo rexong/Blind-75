@@ -2,7 +2,7 @@
   title: Arrays & Hashing - Top K Frequent Element
 </frontmatter>
 
-# [Top K Frequent Element](https://leetcode.com/problems/top-k-frequent-element/)
+# [Top K Frequent Element](https://leetcode.com/problems/top-k-frequent-elements/)
 #### Difficulty: Medium
 
 ### Intuition

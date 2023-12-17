@@ -5,7 +5,7 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"sticky":""
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('h1',{attrs:{"id":"top-k-frequent-element"}},[_c('a',{attrs:{"href":"https://leetcode.com/problems/top-k-frequent-element/"}},[_v("Top K Frequent Element")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#top-k-frequent-element","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h1',{attrs:{"id":"top-k-frequent-element"}},[_c('a',{attrs:{"href":"https://leetcode.com/problems/top-k-frequent-elements/"}},[_v("Top K Frequent Element")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#top-k-frequent-element","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('h4',{attrs:{"id":"difficulty-medium"}},[_v("Difficulty: Medium"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#difficulty-medium","onclick":"event.stopPropagation()"}})])}
