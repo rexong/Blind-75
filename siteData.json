@@ -43,6 +43,19 @@
       "headingKeywords": {}
     },
     {
+      "src": "contents/arrays-and-hashing/top-k-frequent-element.md",
+      "title": "Arrays & Hashing - Top K Frequent Element",
+      "headings": {
+        "top-k-frequent-element": "Top K Frequent Element",
+        "intuition": "Intuition",
+        "contraints": "Contraints",
+        "approach": "Approach",
+        "complexity": "Complexity",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "contents/arrays-and-hashing/two-sum.md",
       "title": "Array & Hashing - Two Sum",
       "headings": {
@@ -174,6 +187,19 @@
       "headingKeywords": {}
     },
     {
+      "src": "contents/sliding-window/longest-repeating-character-replacement.md",
+      "title": "Sliding Window - Longest Repeating Character Replacement",
+      "headings": {
+        "longest-repeating-character-replacement": "Longest Repeating Character Replacement",
+        "intuition": "Intuition",
+        "contraints": "Contraints",
+        "approach": "Approach",
+        "complexity": "Complexity",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "contents/sliding-window/longest-substring-without-repeating-characters.md",
       "title": "Sliding Window - Longest Substring without Repeating Characters",
       "headings": {
@@ -256,6 +282,19 @@
       "title": "Trees - Subtree of Another Tree",
       "headings": {
         "subtree-of-another-tree": "Subtree of Another Tree",
+        "intuition": "Intuition",
+        "contraints": "Contraints",
+        "approach": "Approach",
+        "complexity": "Complexity",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/two-pointer/3-sum.md",
+      "title": "Two Pointer - 3Sum",
+      "headings": {
+        "3sum": "3Sum",
         "intuition": "Intuition",
         "contraints": "Contraints",
         "approach": "Approach",
