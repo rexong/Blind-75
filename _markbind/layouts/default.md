@@ -31,6 +31,7 @@
 * Two Pointer
   * [Valid Palindrome]({{ baseUrl }}/contents/two-pointer/valid-palindrome.html)
   * [Container with Most Water]({{ baseUrl }}/contents/two-pointer/container-with-most-water.html)
+  * [3Sum]({{ baseUrl }}/contents/two-pointer/3-sum.html)
 * Sliding Window
   * [Best Time to Buy and Sell Stock]({{ baseUrl }}/contents/sliding-window/best-time-to-buy-and-sell-stock.html)
   * [Longest Substring without Repeating Characters]({{ baseUrl }}/contents/sliding-window/longest-substring-without-repeating-characters.html)
