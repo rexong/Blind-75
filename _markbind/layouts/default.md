@@ -51,6 +51,8 @@
   * [Counting Bits]({{ baseUrl }}/contents/bit-manipulation/counting-bits.html)
   * [Reverse Bits]({{ baseUrl }}/contents/bit-manipulation/reverse-bits.html)
   * [Missing Number]({{ baseUrl }}/contents/bit-manipulation/missing-number.html)
+* Math & Geometry
+  * [Rotate Image]({{ baseUrl }}/contents/math-and-geometry/rotate-image.html)
       </site-nav>
     </div>
   </nav>
