@@ -5,7 +5,7 @@ _Visit the site [here](https://rexong.github.io/Blind-75/)_
 This repo is documenting my attempt on the Blind 75 questions using Python.
 
 ## Progress
-![](https://progress-bar.dev/34) [23/67]
+![](https://progress-bar.dev/34) [25/67]
 |Question                                                    | Completed? |
 |------------------------------------------------------------|------------|
 |Two Sum	                                                   | &#9745;    |
@@ -50,7 +50,7 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 |Insert Interval	                                           | &#9744;    |
 |Longest Consecutive Sequence	                               | &#9744;    |
 |Word Search II                                              | &#9744;    |
-|Climbing Stairs	                                           | &#9744;    |
+|Climbing Stairs	                                           | &#9745;    |
 |Coin Change	                                               | &#9744;    |
 |Longest Increasing Subsequence	                             | &#9744;    |
 |Combination Sum	                                           | &#9744;    |
@@ -75,3 +75,4 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 |Missing Number                                              | &#9745;    |
 |Number of 1 Bits                                            | &#9745;    |
 |Reverse Bits                                                | &#9745;    |
+|Rotate Image                                                | &#9745;    |
