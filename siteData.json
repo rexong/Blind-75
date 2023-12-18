@@ -135,6 +135,19 @@
       "headingKeywords": {}
     },
     {
+      "src": "contents/dynamic-programming/climbing-stairs.md",
+      "title": "Dynamic Programming = Climbing Stairs",
+      "headings": {
+        "climbing-stairs": "Climbing Stairs",
+        "intuition": "Intuition",
+        "contraints": "Contraints",
+        "approach": "Approach",
+        "complexity": "Complexity",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "contents/linked-list/linked-list-cycle.md",
       "title": "Linked List - Linked List Cycle",
       "headings": {
@@ -165,6 +178,19 @@
       "title": "Linked List - Reverse Linked List",
       "headings": {
         "reverse-linked-list": "Reverse Linked List",
+        "intuition": "Intuition",
+        "contraints": "Contraints",
+        "approach": "Approach",
+        "complexity": "Complexity",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/math-and-geometry/rotate-image.md",
+      "title": "Math & Geometry - Rotate Image",
+      "headings": {
+        "rotate-image": "Rotate Image",
         "intuition": "Intuition",
         "contraints": "Contraints",
         "approach": "Approach",
