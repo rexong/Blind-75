@@ -53,6 +53,8 @@
   * [Missing Number]({{ baseUrl }}/contents/bit-manipulation/missing-number.html)
 * Math & Geometry
   * [Rotate Image]({{ baseUrl }}/contents/math-and-geometry/rotate-image.html)
+* Dynamic Programing
+  * [Climbing Stairs]({{ baseUrl }}/contents/dynamic-programming/climbing-stairs.html)
       </site-nav>
     </div>
   </nav>
