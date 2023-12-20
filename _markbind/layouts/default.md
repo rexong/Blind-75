@@ -51,6 +51,7 @@
   * [Counting Bits]({{ baseUrl }}/contents/bit-manipulation/counting-bits.html)
   * [Reverse Bits]({{ baseUrl }}/contents/bit-manipulation/reverse-bits.html)
   * [Missing Number]({{ baseUrl }}/contents/bit-manipulation/missing-number.html)
+  * [Sum of Two Integers]({{ baseUrl }}/contents/bit-manipulation/sum-of-two-integers.html)
 * Math & Geometry
   * [Rotate Image]({{ baseUrl }}/contents/math-and-geometry/rotate-image.html)
   * [Spiral Matrix]({{ baseUrl }}/contents/math-and-geometry/spiral-matrix.html)
