@@ -5,11 +5,11 @@ _Visit the site [here](https://rexong.github.io/Blind-75/)_
 This repo is documenting my attempt on the Blind 75 questions using Python.
 
 ## Progress
-![](https://progress-bar.dev/34) [25/67]
+![](https://progress-bar.dev/41) [29/70]
 |Question                                                    | Completed? |
 |------------------------------------------------------------|------------|
 |Two Sum	                                                   | &#9745;    |
-|Contains Duplicate                                          | &#9745;    |
+5Contains Duplicate                                          | &#9745;    |
 |Best Time to Buy and Sell Stock	                           | &#9745;    |
 |Valid Anagram                                               | &#9745;    |
 |Valid Parentheses                                           | &#9745;    |
@@ -54,7 +54,7 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 |Coin Change	                                               | &#9744;    |
 |Longest Increasing Subsequence	                             | &#9744;    |
 |Combination Sum	                                           | &#9744;    |
-|House Robber	                                               | &#9744;    |
+|House Robber	                                               | &#9745;    |
 |House Robber II	                                           | &#9744;    |
 |Decode Ways	                                               | &#9744;    |
 |Unique Paths                                                | &#9744;    |
@@ -76,3 +76,8 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 |Number of 1 Bits                                            | &#9745;    |
 |Reverse Bits                                                | &#9745;    |
 |Rotate Image                                                | &#9745;    |
+|Spiral Matrix                                               | &#9745;    |
+|Set Matrix Zeroes                                           | &#9745;    |
+|Sum of Two Integers                                         | &#9745;    |
+
+
