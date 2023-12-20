@@ -369,6 +369,19 @@
       "headingKeywords": {}
     },
     {
+      "src": "contents/trees/validate-binary-search-tree.md",
+      "title": "Trees - Validate Binary Search Tree",
+      "headings": {
+        "validate-binary-search-tree": "Validate Binary Search Tree",
+        "intuition": "Intuition",
+        "contraints": "Contraints",
+        "approach": "Approach",
+        "complexity": "Complexity",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "contents/two-pointer/3-sum.md",
       "title": "Two Pointer - 3Sum",
       "headings": {
