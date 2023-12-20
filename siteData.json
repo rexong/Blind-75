@@ -135,10 +135,36 @@
       "headingKeywords": {}
     },
     {
+      "src": "contents/bit-manipulation/sum-of-two-integers.md",
+      "title": "Bit Manipulation - Sum of Two Integers",
+      "headings": {
+        "sum-of-two-integers": "Sum of Two Integers",
+        "intuition": "Intuition",
+        "contraints": "Contraints",
+        "approach": "Approach",
+        "complexity": "Complexity",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "contents/dynamic-programming/climbing-stairs.md",
       "title": "Dynamic Programming = Climbing Stairs",
       "headings": {
         "climbing-stairs": "Climbing Stairs",
+        "intuition": "Intuition",
+        "contraints": "Contraints",
+        "approach": "Approach",
+        "complexity": "Complexity",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/dynamic-programming/house-robber.md",
+      "title": "Dynamic Programming - House Robber",
+      "headings": {
+        "house-robber": "House Robber",
         "intuition": "Intuition",
         "contraints": "Contraints",
         "approach": "Approach",
@@ -191,6 +217,32 @@
       "title": "Math & Geometry - Rotate Image",
       "headings": {
         "rotate-image": "Rotate Image",
+        "intuition": "Intuition",
+        "contraints": "Contraints",
+        "approach": "Approach",
+        "complexity": "Complexity",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/math-and-geometry/set-matrix-zeroes.md",
+      "title": "Math & Geometry - Set Matrix Zeroes",
+      "headings": {
+        "set-matrix-zeroes": "Set Matrix Zeroes",
+        "intuition": "Intuition",
+        "contraints": "Contraints",
+        "approach": "Approach",
+        "complexity": "Complexity",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/math-and-geometry/spiral-matrix.md",
+      "title": "Math & Geometry - Spiral Matrix",
+      "headings": {
+        "spiral-matrix": "Spiral Matrix",
         "intuition": "Intuition",
         "contraints": "Contraints",
         "approach": "Approach",
@@ -308,6 +360,19 @@
       "title": "Trees - Subtree of Another Tree",
       "headings": {
         "subtree-of-another-tree": "Subtree of Another Tree",
+        "intuition": "Intuition",
+        "contraints": "Contraints",
+        "approach": "Approach",
+        "complexity": "Complexity",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/trees/template.md",
+      "title": "Category - Question Title",
+      "headings": {
+        "question-title-https-leetcode-com-problems-insert-something-here": "[{Question Title}](https://leetcode.com/problems/{Insert Something Here}/)",
         "intuition": "Intuition",
         "contraints": "Contraints",
         "approach": "Approach",
