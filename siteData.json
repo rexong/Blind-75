@@ -369,10 +369,10 @@
       "headingKeywords": {}
     },
     {
-      "src": "contents/trees/template.md",
-      "title": "Category - Question Title",
+      "src": "contents/trees/validate-binary-search-tree.md",
+      "title": "Trees - Validate Binary Search Tree",
       "headings": {
-        "question-title-https-leetcode-com-problems-insert-something-here": "[{Question Title}](https://leetcode.com/problems/{Insert Something Here}/)",
+        "validate-binary-search-tree": "Validate Binary Search Tree",
         "intuition": "Intuition",
         "contraints": "Contraints",
         "approach": "Approach",
