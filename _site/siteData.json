@@ -148,6 +148,19 @@
       "headingKeywords": {}
     },
     {
+      "src": "contents/dynamic-programming/house-robber.md",
+      "title": "Dynamic Programming - House Robber",
+      "headings": {
+        "house-robber": "House Robber",
+        "intuition": "Intuition",
+        "contraints": "Contraints",
+        "approach": "Approach",
+        "complexity": "Complexity",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "contents/linked-list/linked-list-cycle.md",
       "title": "Linked List - Linked List Cycle",
       "headings": {
@@ -191,6 +204,19 @@
       "title": "Math & Geometry - Rotate Image",
       "headings": {
         "rotate-image": "Rotate Image",
+        "intuition": "Intuition",
+        "contraints": "Contraints",
+        "approach": "Approach",
+        "complexity": "Complexity",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/math-and-geometry/spiral-matrix.md",
+      "title": "Math & Geometry - Spiral Matrix",
+      "headings": {
+        "spiral-matrix": "Spiral Matrix",
         "intuition": "Intuition",
         "contraints": "Contraints",
         "approach": "Approach",
