@@ -55,6 +55,7 @@
   * [Rotate Image]({{ baseUrl }}/contents/math-and-geometry/rotate-image.html)
 * Dynamic Programing
   * [Climbing Stairs]({{ baseUrl }}/contents/dynamic-programming/climbing-stairs.html)
+  * [House Robber]({{ baseUrl }}/contents/dynamic-programming/house-robber.html)
       </site-nav>
     </div>
   </nav>
