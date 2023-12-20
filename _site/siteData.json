@@ -226,6 +226,19 @@
       "headingKeywords": {}
     },
     {
+      "src": "contents/math-and-geometry/set-matrix-zeroes.md",
+      "title": "Math & Geometry - Set Matrix Zeroes",
+      "headings": {
+        "set-matrix-zeroes": "Set Matrix Zeroes",
+        "intuition": "Intuition",
+        "contraints": "Contraints",
+        "approach": "Approach",
+        "complexity": "Complexity",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "contents/math-and-geometry/spiral-matrix.md",
       "title": "Math & Geometry - Spiral Matrix",
       "headings": {

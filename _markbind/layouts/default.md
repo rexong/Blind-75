@@ -55,6 +55,7 @@
 * Math & Geometry
   * [Rotate Image]({{ baseUrl }}/contents/math-and-geometry/rotate-image.html)
   * [Spiral Matrix]({{ baseUrl }}/contents/math-and-geometry/spiral-matrix.html)
+  * [Set Matrix Zeroes]({{ baseUrl }}/contents/math-and-geometry/set-matrix-zeroes.html)
 * Dynamic Programing
   * [Climbing Stairs]({{ baseUrl }}/contents/dynamic-programming/climbing-stairs.html)
   * [House Robber]({{ baseUrl }}/contents/dynamic-programming/house-robber.html)
