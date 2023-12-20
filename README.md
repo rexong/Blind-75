@@ -9,7 +9,7 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 |Question                                                    | Completed? |
 |------------------------------------------------------------|------------|
 |Two Sum	                                                   | &#9745;    |
-5Contains Duplicate                                          | &#9745;    |
+|Contains Duplicate                                          | &#9745;    |
 |Best Time to Buy and Sell Stock	                           | &#9745;    |
 |Valid Anagram                                               | &#9745;    |
 |Valid Parentheses                                           | &#9745;    |
@@ -79,5 +79,4 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 |Spiral Matrix                                               | &#9745;    |
 |Set Matrix Zeroes                                           | &#9745;    |
 |Sum of Two Integers                                         | &#9745;    |
-
 
