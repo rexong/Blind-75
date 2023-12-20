@@ -5,7 +5,7 @@ _Visit the site [here](https://rexong.github.io/Blind-75/)_
 This repo is documenting my attempt on the Blind 75 questions using Python.
 
 ## Progress
-![](https://progress-bar.dev/41) [29/70]
+![](https://progress-bar.dev/42) [30/70]
 |Question                                                    | Completed? |
 |------------------------------------------------------------|------------|
 |Two Sum	                                                   | &#9745;    |
@@ -32,7 +32,7 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 |Pacific Atlantic Water Flow                                 | &#9744;    |
 |Minimum Window Substring                                    | &#9744;    |
 |Invert/Flip Binary Tree	                                   | &#9745;    |
-|Validate Binary Search Tree	                               | &#9744;    |
+|Validate Binary Search Tree	                               | &#9745;    |
 |Non-overlapping Intervals	                                 | &#9744;    |
 |Construct Binary Tree from Preorder and Inorder Traversal   | &#9744;    |
 |Top K Frequent Elements	                                   | &#9745;    |
