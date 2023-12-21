@@ -60,6 +60,7 @@
 * Dynamic Programing
   * [Climbing Stairs]({{ baseUrl }}/contents/dynamic-programming/climbing-stairs.html)
   * [House Robber]({{ baseUrl }}/contents/dynamic-programming/house-robber.html)
+  * [House Robber II]({{ baseUrl }}/contents/dynamic-programming/house-robber-ii.html)
       </site-nav>
     </div>
   </nav>
