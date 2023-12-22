@@ -5,7 +5,7 @@ _Visit the site [here](https://rexong.github.io/Blind-75/)_
 This repo is documenting my attempt on the Blind 75 questions using Python.
 
 ## Progress
-![](https://progress-bar.dev/44) [31/70]
+![](https://progress-bar.dev/45) [32/70]
 |Question                                                    | Completed? |
 |------------------------------------------------------------|------------|
 |Two Sum	                                                   | &#9745;    |
@@ -14,7 +14,7 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 |Valid Anagram                                               | &#9745;    |
 |Valid Parentheses                                           | &#9745;    |
 |Maximum Subarray	                                           | &#9744;    |
-|Product of Array Except Self                                | &#9744;    |
+|Product of Array Except Self                                | &#9745;    |
 |3Sum	                                                       | &#9745;    |
 |Merge Intervals                                             | &#9744;    |
 |rroup Anagrams                                              | &#9745;    |
