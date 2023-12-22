@@ -17,7 +17,7 @@ and postfix is the product of array from i to n, where n is the index of the las
 1. Initialise results, prefix and postfix array
 2. Iterate and fill up the prefix and postfix array
 3. Iterate the array
-    1. Suppose at `i`th element, take `i-1`th element from prefix and `i+1` element from postfix
+    1. Suppose at `i`th element, take `i-1`th element from prefix and `i+1`th element from postfix
     2. Multiply and append the values to results.
 4. Return results
 
