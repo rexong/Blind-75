@@ -47,12 +47,14 @@
   * [Merge Two Sorted Lists]({{ baseUrl }}/contents/linked-list/merge-two-sorted-lists.html)
   * [Reverse Linked List]({{ baseUrl }}/contents/linked-list/reverse-linked-list.html)
   * [Reorder List]({{ baseUrl }}/contents/linked-list/reorder-list.html)
+  * [Remove Nth Node From End of List]({{ baseUrl }}/contents/linked-list/remove-nth-node-from-end-of-list.html)
 * Trees
   * [Invert Binary Tree]({{ baseUrl }}/contents/trees/invert-binary-tree.html)
   * [Maximum Depth of Binary Tree]({{ baseUrl }}/contents/trees/maximum-depth-of-binary-tree.html)
   * [Same Tree]({{ baseUrl }}/contents/trees/same-tree.html)
   * [Subtree of Another Tree]({{ baseUrl }}/contents/trees/subtree-of-another-tree.html)
   * [Validate Binary Search Tree]({{ baseUrl }}/contents/trees/validate-binary-search-tree.html)
+  * [Lowest Common Ancestor of a Binary Search Tree]({{ baseUrl }}/contents/trees/lowest-common-ancestor-of-a-binary-search-tree.html)
 * Bit Manipulation
   * [Number of 1 Bits]({{ baseUrl }}/contents/bit-manipulation/number-of-1-bits.html)
   * [Counting Bits]({{ baseUrl }}/contents/bit-manipulation/counting-bits.html)
