@@ -434,6 +434,19 @@
       "headingKeywords": {}
     },
     {
+      "src": "contents/trees/kth-smallest-element-in-a-bst.md",
+      "title": "Trees - Kth Smallest Element in a BST",
+      "headings": {
+        "kth-smallest-element-in-a-bst": "Kth Smallest Element in a BST",
+        "intuition": "Intuition",
+        "contraints": "Contraints",
+        "approach": "Approach",
+        "complexity": "Complexity",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "contents/trees/lowest-common-ancestor-of-a-binary-search-tree.md",
       "title": "Trees - Lowest Common Ancestor of a Binary Search Tree",
       "headings": {
