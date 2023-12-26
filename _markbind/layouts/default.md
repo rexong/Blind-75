@@ -41,6 +41,7 @@
   * [Longest Repeating Character Replacement]({{ baseUrl }}/contents/sliding-window/longest-repeating-character-replacement.html)
 * Binary Search
   * [Find Minimum in Rotated Sorted Array]({{ baseUrl }}/contents/binary-search/find-minimum-in-rotated-sorted-array.html)
+  * [Search in Rotated Sorted Array]({{ baseUrl }}/contents/binary-search/search-in-rotated-sorted-array.html)
 * Linked List
   * [Linked List Cycle]({{ baseUrl }}/contents/linked-list/linked-list-cycle.html)
   * [Merge Two Sorted Lists]({{ baseUrl }}/contents/linked-list/merge-two-sorted-lists.html)

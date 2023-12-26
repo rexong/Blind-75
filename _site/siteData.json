@@ -121,6 +121,19 @@
       "headingKeywords": {}
     },
     {
+      "src": "contents/binary-search/search-in-rotated-sorted-array.md",
+      "title": "Binary Search - Search in Rotated Sorted Array",
+      "headings": {
+        "search-in-rotated-sorted-array": "Search in Rotated Sorted Array",
+        "intuition": "Intuition",
+        "contraints": "Contraints",
+        "approach": "Approach",
+        "complexity": "Complexity",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "contents/bit-manipulation/counting-bits.md",
       "title": "Bit Manipulation - Counting Bits",
       "headings": {
