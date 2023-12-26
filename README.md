@@ -34,7 +34,7 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 |Invert/Flip Binary Tree	                                   | &#9745;    |
 |Validate Binary Search Tree	                               | &#9745;    |
 |Non-overlapping Intervals	                                 | &#9744;    |
-|Construct Binary Tree from Preorder and Inorder Traversal   | &#9744;    |
+|Construct Binary Tree from Preorder and Inorder Traversal   | &#9745;    |
 |Top K Frequent Elements	                                   | &#9745;    |
 |Clone Graph	                                               | &#9744;    |
 |Course Schedule	                                           | &#9744;    |
