@@ -28,6 +28,7 @@
   * [Group Anagrams]({{ baseUrl }}/contents/arrays-and-hashing/group-anagrams.html)
   * [Top K Frequent Element]({{ baseUrl }}/contents/arrays-and-hashing/top-k-frequent-element.html)
   * [Product of Array Except Self]({{ baseUrl }}/contents/arrays-and-hashing/product-of-array-except-self.html)
+  * [Longest Consecutive Sequence]({{ baseUrl }}/contents/arrays-and-hashing/longest-consecutive-sequence.html)
 * Stack
   * [Valid Parentheses]({{ baseUrl }}/contents/stack/valid-parentheses.html)
 * Two Pointer
@@ -38,6 +39,8 @@
   * [Best Time to Buy and Sell Stock]({{ baseUrl }}/contents/sliding-window/best-time-to-buy-and-sell-stock.html)
   * [Longest Substring without Repeating Characters]({{ baseUrl }}/contents/sliding-window/longest-substring-without-repeating-characters.html)
   * [Longest Repeating Character Replacement]({{ baseUrl }}/contents/sliding-window/longest-repeating-character-replacement.html)
+* Binary Search
+  * [Find Minimum in Rotated Sorted Array]({{ baseUrl }}/contents/binary-search/find-minimum-in-rotated-sorted-array.html)
 * Linked List
   * [Linked List Cycle]({{ baseUrl }}/contents/linked-list/linked-list-cycle.html)
   * [Merge Two Sorted Lists]({{ baseUrl }}/contents/linked-list/merge-two-sorted-lists.html)

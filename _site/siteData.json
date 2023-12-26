@@ -43,6 +43,19 @@
       "headingKeywords": {}
     },
     {
+      "src": "contents/arrays-and-hashing/longest-consecutive-sequence.md",
+      "title": "Arrays & Hashing - Longest Consecutive Sequence",
+      "headings": {
+        "longest-consecutive-sequence": "Longest Consecutive Sequence",
+        "intuition": "Intuition",
+        "contraints": "Contraints",
+        "approach": "Approach",
+        "complexity": "Complexity",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "contents/arrays-and-hashing/product-of-array-except-self.md",
       "title": "Arrays & Hashing - Product of Array Except Self",
       "headings": {
@@ -86,6 +99,19 @@
       "title": "Arrays & Hashing - Valid Anagram",
       "headings": {
         "valid-anagram": "Valid Anagram",
+        "intuition": "Intuition",
+        "contraints": "Contraints",
+        "approach": "Approach",
+        "complexity": "Complexity",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/binary-search/find-minimum-in-rotated-sorted-array.md",
+      "title": "Binary Search - Find Minimum in Rotated Sorted Array",
+      "headings": {
+        "find-minimum-in-rotated-sorted-array": "Find Minimum in Rotated Sorted Array",
         "intuition": "Intuition",
         "contraints": "Contraints",
         "approach": "Approach",
