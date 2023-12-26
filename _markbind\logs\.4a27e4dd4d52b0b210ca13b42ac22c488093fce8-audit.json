@@ -26,15 +26,9 @@
             "hash": "eadcb8584e49531883a535f9e045b5be"
         },
         {
-<<<<<<< Updated upstream
-            "date": 1703610064332,
+            "date": 1703611363587,
             "name": "_markbind/logs/markbind-2023-12-27.log",
-            "hash": "b7ff2de8a601c311e005f1c0b64e1092"
-=======
-            "date": 1703609817375,
-            "name": "_markbind/logs/markbind-2023-12-27.log",
-            "hash": "15af74837db6c1aba48d60cbc3d17532"
->>>>>>> Stashed changes
+            "hash": "5482cdf954146fcc0cbfd3bc26da18b3"
         }
     ]
 }
