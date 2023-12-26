@@ -55,6 +55,7 @@
   * [Subtree of Another Tree]({{ baseUrl }}/contents/trees/subtree-of-another-tree.html)
   * [Validate Binary Search Tree]({{ baseUrl }}/contents/trees/validate-binary-search-tree.html)
   * [Lowest Common Ancestor of a Binary Search Tree]({{ baseUrl }}/contents/trees/lowest-common-ancestor-of-a-binary-search-tree.html)
+  * [Binary Tree Level Order Traversal]({{ baseUrl }}/contents/trees/binary-tree-level-order-traversal.html)
 * Bit Manipulation
   * [Number of 1 Bits]({{ baseUrl }}/contents/bit-manipulation/number-of-1-bits.html)
   * [Counting Bits]({{ baseUrl }}/contents/bit-manipulation/counting-bits.html)
