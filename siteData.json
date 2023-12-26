@@ -421,6 +421,19 @@
       "headingKeywords": {}
     },
     {
+      "src": "contents/trees/construct-binary-tree-from-preorder-and-inorder-traversal.md",
+      "title": "Trees - Construct Binary Tree from Preorder and Inorder Traversal",
+      "headings": {
+        "construct-binary-tree-from-preorder-and-inorder-traversal": "Construct Binary Tree from Preorder and Inorder Traversal",
+        "intuition": "Intuition",
+        "contraints": "Contraints",
+        "approach": "Approach",
+        "complexity": "Complexity",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "contents/trees/invert-binary-tree.md",
       "title": "Trees - Invert Binary Tree",
       "headings": {
