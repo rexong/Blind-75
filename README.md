@@ -5,7 +5,7 @@ _Visit the site [here](https://rexong.github.io/Blind-75/)_
 This repo is documenting my attempt on the Blind 75 questions using Python.
 
 ## Progress
-![](https://progress-bar.dev/54) [39/71]
+![](https://progress-bar.dev/56) [40/71]
 |Question                                                    | Completed? |
 |------------------------------------------------------------|------------|
 |Two Sum	                                                   | &#9745;    |
@@ -44,7 +44,7 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 |Lowest Common Ancestor of BST	                             | &#9745;    |
 |Implement Trie (Prefix Tree)	                               | &#9744;    |
 |Add and Search Word	                                       | &#9744;    |
-|Kth Smallest Element in a BST	                             | &#9744;    |
+|Kth Smallest Element in a BST	                             | &#9745;    |
 |Merge K Sorted Lists	                                       | &#9744;    |
 |Find Median from Data Stream	                               | &#9744;    |
 |Insert Interval	                                           | &#9744;    |
