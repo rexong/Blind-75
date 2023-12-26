@@ -10,7 +10,7 @@ Iterative Inorder Traversal.
 
 ### Contraints
 - $1\leqslant$ number of nodes $\leqslant 10^4$
-- $1\leqslant$ k $\leqslant number of nodes$ 
+- $1\leqslant$ k $\leqslant$ number of nodes
 
 ## Approach
 1. Initialise n to 0
