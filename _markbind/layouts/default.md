@@ -46,6 +46,7 @@
   * [Linked List Cycle]({{ baseUrl }}/contents/linked-list/linked-list-cycle.html)
   * [Merge Two Sorted Lists]({{ baseUrl }}/contents/linked-list/merge-two-sorted-lists.html)
   * [Reverse Linked List]({{ baseUrl }}/contents/linked-list/reverse-linked-list.html)
+  * [Reorder List]({{ baseUrl }}/contents/linked-list/reorder-list.html)
 * Trees
   * [Invert Binary Tree]({{ baseUrl }}/contents/trees/invert-binary-tree.html)
   * [Maximum Depth of Binary Tree]({{ baseUrl }}/contents/trees/maximum-depth-of-binary-tree.html)
