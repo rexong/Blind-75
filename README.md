@@ -5,7 +5,7 @@ _Visit the site [here](https://rexong.github.io/Blind-75/)_
 This repo is documenting my attempt on the Blind 75 questions using Python.
 
 ## Progress
-![](https://progress-bar.dev/45) [32/70]
+![](https://progress-bar.dev/54) [39/71]
 |Question                                                    | Completed? |
 |------------------------------------------------------------|------------|
 |Two Sum	                                                   | &#9745;    |
@@ -23,11 +23,11 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 |Reverse a Linked List	                                     | &#9745;    |
 |Detect Cycle in a Linked List	                             | &#9745;    |
 |Container With Most Water	                                 | &#9745;    |
-|Find Minimum in Rotated Sorted Array	                       | &#9744;    |
+|Find Minimum in Rotated Sorted Array	                       | &#9745;    |
 |Longest Repeating Character Replacement	                   | &#9745;    |
 |Longest Substring Without Repeating Characters	             | &#9745;    |
 |Number of Islands	                                         | &#9744;    |
-|Remove Nth Node From End Of List	                           | &#9744;    |
+|Remove Nth Node From End Of List	                           | &#9745;    |
 |Palindromic Substrings	                                     | &#9744;    |
 |Pacific Atlantic Water Flow                                 | &#9744;    |
 |Minimum Window Substring                                    | &#9744;    |
@@ -41,14 +41,14 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 |Serialize and Deserialize Binary Tree                       | &#9744;    |
 |Binary Tree Maximum Path Sum                                | &#9744;    |
 |Subtree of Another Tree	                                   | &#9745;    |
-|Lowest Common Ancestor of BST	                             | &#9744;    |
+|Lowest Common Ancestor of BST	                             | &#9745;    |
 |Implement Trie (Prefix Tree)	                               | &#9744;    |
 |Add and Search Word	                                       | &#9744;    |
 |Kth Smallest Element in a BST	                             | &#9744;    |
 |Merge K Sorted Lists	                                       | &#9744;    |
 |Find Median from Data Stream	                               | &#9744;    |
 |Insert Interval	                                           | &#9744;    |
-|Longest Consecutive Sequence	                               | &#9744;    |
+|Longest Consecutive Sequence	                               | &#9745;    |
 |Word Search II                                              | &#9744;    |
 |Climbing Stairs	                                           | &#9745;    |
 |Coin Change	                                               | &#9744;    |
@@ -67,10 +67,10 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 |Alien Dictionary                                            | &#9744;    |
 |Maximum Depth of Binary Tree                                | &#9745;    |
 |Same Tree	                                                 | &#9745;    |
-|Binary Tree Level Order Traversal                           | &#9744;    |
+|Binary Tree Level Order Traversal                           | &#9745;    |
 |Encode and Decode Strings                                   | &#9744;    |
 |Maximum Product Subarray                                    | &#9744;    |
-|Search in Rotated Sorted Array                              | &#9744;    |
+|Search in Rotated Sorted Array                              | &#9745;    |
 |Counting Bits                                               | &#9745;    |
 |Missing Number                                              | &#9745;    |
 |Number of 1 Bits                                            | &#9745;    |
@@ -79,4 +79,4 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 |Spiral Matrix                                               | &#9745;    |
 |Set Matrix Zeroes                                           | &#9745;    |
 |Sum of Two Integers                                         | &#9745;    |
-
+|Reorder List                                                | &#9745;    |
