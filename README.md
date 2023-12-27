@@ -26,7 +26,7 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 |Find Minimum in Rotated Sorted Array	                       | &#9745;    |
 |Longest Repeating Character Replacement	                   | &#9745;    |
 |Longest Substring Without Repeating Characters	             | &#9745;    |
-|Number of Islands	                                         | &#9744;    |
+|Number of Islands	                                         | &#9745;    |
 |Remove Nth Node From End Of List	                           | &#9745;    |
 |Palindromic Substrings	                                     | &#9744;    |
 |Pacific Atlantic Water Flow                                 | &#9744;    |
@@ -42,7 +42,7 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 |Binary Tree Maximum Path Sum                                | &#9744;    |
 |Subtree of Another Tree	                                   | &#9745;    |
 |Lowest Common Ancestor of BST	                             | &#9745;    |
-|Implement Trie (Prefix Tree)	                               | &#9744;    |
+|Implement Trie (Prefix Tree)	                               | &#9745;    |
 |Add and Search Word	                                       | &#9744;    |
 |Kth Smallest Element in a BST	                             | &#9745;    |
 |Merge K Sorted Lists	                                       | &#9744;    |
@@ -53,7 +53,7 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 |Climbing Stairs	                                           | &#9745;    |
 |Coin Change	                                               | &#9744;    |
 |Longest Increasing Subsequence	                             | &#9744;    |
-|Combination Sum	                                           | &#9744;    |
+|Combination Sum	                                           | &#9745;    |
 |House Robber	                                               | &#9745;    |
 |House Robber II	                                           | &#9745;    |
 |Decode Ways	                                               | &#9744;    |
@@ -80,3 +80,4 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 |Set Matrix Zeroes                                           | &#9745;    |
 |Sum of Two Integers                                         | &#9745;    |
 |Reorder List                                                | &#9745;    |
+|Word Search                                              |Word Search |
