@@ -108,6 +108,32 @@
       "headingKeywords": {}
     },
     {
+      "src": "contents/backtracking/combination-sum.md",
+      "title": "Backtracking - Combination Sum",
+      "headings": {
+        "combination-sum": "Combination Sum",
+        "intuition": "Intuition",
+        "contraints": "Contraints",
+        "approach": "Approach",
+        "complexity": "Complexity",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/backtracking/word-search.md",
+      "title": "Backtracking - Word Search",
+      "headings": {
+        "word-search": "Word Search",
+        "intuition": "Intuition",
+        "contraints": "Contraints",
+        "approach": "Approach",
+        "complexity": "Complexity",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "contents/binary-search/find-minimum-in-rotated-sorted-array.md",
       "title": "Binary Search - Find Minimum in Rotated Sorted Array",
       "headings": {
@@ -230,6 +256,19 @@
       "title": "Dynamic Programming - House Robber",
       "headings": {
         "house-robber": "House Robber",
+        "intuition": "Intuition",
+        "contraints": "Contraints",
+        "approach": "Approach",
+        "complexity": "Complexity",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/graphs/number-of-islands.md",
+      "title": "Graphs - Number of Islands",
+      "headings": {
+        "number-of-islands": "Number of Islands",
         "intuition": "Intuition",
         "contraints": "Contraints",
         "approach": "Approach",
@@ -516,6 +555,19 @@
       "title": "Trees - Validate Binary Search Tree",
       "headings": {
         "validate-binary-search-tree": "Validate Binary Search Tree",
+        "intuition": "Intuition",
+        "contraints": "Contraints",
+        "approach": "Approach",
+        "complexity": "Complexity",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/tries/implement-trie.md",
+      "title": "Tries - Implement Trie (Prefix Tree)",
+      "headings": {
+        "implement-trie-prefix-tree": "Implement Trie (Prefix Tree)",
         "intuition": "Intuition",
         "contraints": "Contraints",
         "approach": "Approach",
