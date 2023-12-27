@@ -5,7 +5,7 @@ _Visit the site [here](https://rexong.github.io/Blind-75/)_
 This repo is documenting my attempt on the Blind 75 questions using Python.
 
 ## Progress
-![](https://progress-bar.dev/57) [41/71]
+![](https://progress-bar.dev/62) [45/72]
 |Question                                                    | Completed? |
 |------------------------------------------------------------|------------|
 |Two Sum	                                                   | &#9745;    |
@@ -80,4 +80,4 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 |Set Matrix Zeroes                                           | &#9745;    |
 |Sum of Two Integers                                         | &#9745;    |
 |Reorder List                                                | &#9745;    |
-|Word Search                                              |Word Search |
+|Word Search                                                 | &#9745;    |
