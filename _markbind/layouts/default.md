@@ -58,6 +58,8 @@
   * [Binary Tree Level Order Traversal]({{ baseUrl }}/contents/trees/binary-tree-level-order-traversal.html)
   * [Kth Smallest Element in a BST]({{ baseUrl }}/contents/trees/kth-smallest-element-in-a-bst.html)
   * [Construct Binary Tree from Preorder and Inorder Traversal]({{ baseUrl }}/contents/trees/construct-binary-tree-from-preorder-and-inorder-traversal.html)
+* Tries
+  * [Implement Trie (Prefix Tree)]({{ baseUrl }}/contents/tries/implement-trie.html)
 * Backtracking
   * [Combination Sum]({{ baseUrl }}/contents/backtracking/combination-sum.html)
   * [Word Search]({{ baseUrl }}/contents/backtracking/word-search.html)
