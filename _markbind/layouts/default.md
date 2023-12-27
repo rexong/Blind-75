@@ -59,7 +59,8 @@
   * [Kth Smallest Element in a BST]({{ baseUrl }}/contents/trees/kth-smallest-element-in-a-bst.html)
   * [Construct Binary Tree from Preorder and Inorder Traversal]({{ baseUrl }}/contents/trees/construct-binary-tree-from-preorder-and-inorder-traversal.html)
 * Backtracking
-  * [Combination Sum]({{ baseUrl }}/contents/backtracking/combination-sum.md)
+  * [Combination Sum]({{ baseUrl }}/contents/backtracking/combination-sum.html)
+  * [Word Search]({{ baseUrl }}/contents/backtracking/word-search.html)
 * Bit Manipulation
   * [Number of 1 Bits]({{ baseUrl }}/contents/bit-manipulation/number-of-1-bits.html)
   * [Counting Bits]({{ baseUrl }}/contents/bit-manipulation/counting-bits.html)
