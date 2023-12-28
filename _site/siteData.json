@@ -577,6 +577,19 @@
       "headingKeywords": {}
     },
     {
+      "src": "contents/tries/design-add-and-search-words-data-structure.md",
+      "title": "Tries - Design Add and Search Words Data Structure",
+      "headings": {
+        "design-add-and-search-words-data-structure": "Design Add and Search Words Data Structure",
+        "intuition": "Intuition",
+        "contraints": "Contraints",
+        "approach": "Approach",
+        "complexity": "Complexity",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "contents/tries/implement-trie.md",
       "title": "Tries - Implement Trie (Prefix Tree)",
       "headings": {
