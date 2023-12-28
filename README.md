@@ -5,7 +5,7 @@ _Visit the site [here](https://rexong.github.io/Blind-75/)_
 This repo is documenting my attempt on the Blind 75 questions using Python.
 
 ## Progress
-![](https://progress-bar.dev/62) [45/72]
+![](https://progress-bar.dev/64) [47/73]
 |Question                                                    | Completed? |
 |------------------------------------------------------------|------------|
 |Two Sum	                                                   | &#9745;    |
@@ -36,7 +36,7 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 |Non-overlapping Intervals	                                 | &#9744;    |
 |Construct Binary Tree from Preorder and Inorder Traversal   | &#9745;    |
 |Top K Frequent Elements	                                   | &#9745;    |
-|Clone Graph	                                               | &#9744;    |
+|Clone Graph	                                               | &#9745;    |
 |Course Schedule	                                           | &#9744;    |
 |Serialize and Deserialize Binary Tree                       | &#9744;    |
 |Binary Tree Maximum Path Sum                                | &#9744;    |
@@ -81,3 +81,4 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 |Sum of Two Integers                                         | &#9745;    |
 |Reorder List                                                | &#9745;    |
 |Word Search                                                 | &#9745;    |
+|Design Add and Search Words Data Structure                  | &#9745;    |
