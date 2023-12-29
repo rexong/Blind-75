@@ -278,10 +278,36 @@
       "headingKeywords": {}
     },
     {
+      "src": "contents/graphs/course-schedule.md",
+      "title": "Graphs - Course Schedule",
+      "headings": {
+        "course-schedule": "Course Schedule",
+        "intuition": "Intuition",
+        "contraints": "Contraints",
+        "approach": "Approach",
+        "complexity": "Complexity",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "contents/graphs/number-of-islands.md",
       "title": "Graphs - Number of Islands",
       "headings": {
         "number-of-islands": "Number of Islands",
+        "intuition": "Intuition",
+        "contraints": "Contraints",
+        "approach": "Approach",
+        "complexity": "Complexity",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/graphs/pacific-atlantic-water-flow.md",
+      "title": "Graphs - Pacific Atlantic Water Flow",
+      "headings": {
+        "pacific-atlantic-water-flow": "Pacific Atlantic Water Flow",
         "intuition": "Intuition",
         "contraints": "Contraints",
         "approach": "Approach",
