@@ -9,10 +9,12 @@
 Brute Force method
 - Get every substring - O($n^2$)
 - For every substring, perform palindrome check - O(n)
+
 **Time Complexity - O($n^3$)**
 
 Optimised Method
 - For every character, treat it as center of palindrome and expand while it is a palindrome
+
 **If the palindrome is even length, take each character and the character to its right**
 
 ### Contraints 
