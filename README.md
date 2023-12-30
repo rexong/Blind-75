@@ -28,7 +28,7 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 |Longest Substring Without Repeating Characters	             | &#9745;    |
 |Number of Islands	                                         | &#9745;    |
 |Remove Nth Node From End Of List	                           | &#9745;    |
-|Palindromic Substrings	                                     | &#9744;    |
+|Palindromic Substrings	                                     | &#9745;    |
 |Pacific Atlantic Water Flow                                 | &#9745;    |
 |Minimum Window Substring                                    | &#9744;    |
 |Invert/Flip Binary Tree	                                   | &#9745;    |
