@@ -265,6 +265,19 @@
       "headingKeywords": {}
     },
     {
+      "src": "contents/dynamic-programming/longest-palindromic-substring.md",
+      "title": "Dynamic Programming - Longest Palindromic Substring",
+      "headings": {
+        "longest-palindromic-substring": "Longest Palindromic Substring",
+        "intuition": "Intuition",
+        "contraints": "Contraints",
+        "approach": "Approach",
+        "complexity": "Complexity",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "contents/graphs/clone-graph.md",
       "title": "Graphs - Clone Graph",
       "headings": {
