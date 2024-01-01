@@ -239,6 +239,19 @@
       "headingKeywords": {}
     },
     {
+      "src": "contents/dynamic-programming/coin-change.md",
+      "title": "Dynamic Programming - Coin Change",
+      "headings": {
+        "coin-change": "Coin Change",
+        "intuition": "Intuition",
+        "contraints": "Contraints",
+        "approach": "Approach",
+        "complexity": "Complexity",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "contents/dynamic-programming/house-robber-ii.md",
       "title": "Dynamic Programming - House Robber II",
       "headings": {
@@ -269,6 +282,19 @@
       "title": "Dynamic Programming - Longest Palindromic Substring",
       "headings": {
         "longest-palindromic-substring": "Longest Palindromic Substring",
+        "intuition": "Intuition",
+        "contraints": "Contraints",
+        "approach": "Approach",
+        "complexity": "Complexity",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/dynamic-programming/palindromic-substrings.md",
+      "title": "Dynamic Programming - Palindromic Substrings",
+      "headings": {
+        "palindromic-substrings": "Palindromic Substrings",
         "intuition": "Intuition",
         "contraints": "Contraints",
         "approach": "Approach",
