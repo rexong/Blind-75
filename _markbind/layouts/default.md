@@ -84,6 +84,7 @@
   * [House Robber]({{ baseUrl }}/contents/dynamic-programming/house-robber.html)
   * [House Robber II]({{ baseUrl }}/contents/dynamic-programming/house-robber-ii.html)
   * [Longest Palindromic Substring]({{ baseUrl }}/contents/dynamic-programming/longest-palindromic-substring.html)
+  * [Palindromic Substrings]({{ baseUrl }}/contents/dynamic-programming/palindromic-substrings.html)
       </site-nav>
     </div>
   </nav>
