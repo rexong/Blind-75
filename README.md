@@ -5,7 +5,7 @@ _Visit the site [here](https://rexong.github.io/Blind-75/)_
 This repo is documenting my attempt on the Blind 75 questions using Python.
 
 ## Progress
-![](https://progress-bar.dev/67) [49/73]
+![](https://progress-bar.dev/70) [52/74]
 |Question                                                    | Completed? |
 |------------------------------------------------------------|------------|
 |Two Sum	                                                   | &#9745;    |
@@ -29,6 +29,7 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 |Number of Islands	                                         | &#9745;    |
 |Remove Nth Node From End Of List	                           | &#9745;    |
 |Palindromic Substrings	                                     | &#9745;    |
+|Longest Palindromic Substrings	                                     | &#9745;    |
 |Pacific Atlantic Water Flow                                 | &#9745;    |
 |Minimum Window Substring                                    | &#9744;    |
 |Invert/Flip Binary Tree	                                   | &#9745;    |
@@ -51,7 +52,7 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 |Longest Consecutive Sequence	                               | &#9745;    |
 |Word Search II                                              | &#9744;    |
 |Climbing Stairs	                                           | &#9745;    |
-|Coin Change	                                               | &#9744;    |
+|Coin Change	                                               | &#9745;    |
 |Longest Increasing Subsequence	                             | &#9744;    |
 |Combination Sum	                                           | &#9745;    |
 |House Robber	                                               | &#9745;    |
