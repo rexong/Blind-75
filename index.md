@@ -9,6 +9,7 @@
   <div class="container">
     <h1 class="display-4 no-index">Blind 75</h1>
     <p class="lead">This page details the solution of leetcode questions. Notably the blind 75 questions.</p>
+    <p class="lead"><em>View Github Page <a href="https://github.com/rexong/Blind-75">here</a>.</em></p>
   </div>
   <div class="container">
     <h2 class="display-5 no-index">How to read the questions?</h2>
