@@ -86,6 +86,7 @@
   * [Longest Palindromic Substring]({{ baseUrl }}/contents/dynamic-programming/longest-palindromic-substring.html)
   * [Palindromic Substrings]({{ baseUrl }}/contents/dynamic-programming/palindromic-substrings.html)
   * [Coin Change]({{ baseUrl }}/contents/dynamic-programming/coin-change.html)
+  * [Decode Ways]({{ baseUrl }}/contents/dynamic-programming/decode-ways.html)
       </site-nav>
     </div>
   </nav>
