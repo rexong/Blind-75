@@ -5,7 +5,7 @@ _Visit the site [here](https://rexong.github.io/Blind-75/)_
 This repo is documenting my attempt on the Blind 75 questions using Python.
 
 ## Progress
-![](https://progress-bar.dev/70) [52/74]
+![](https://progress-bar.dev/71) [53/74]
 |Question                                                    | Completed? |
 |------------------------------------------------------------|------------|
 |Two Sum	                                                   | &#9745;    |
@@ -57,7 +57,7 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 |Combination Sum	                                           | &#9745;    |
 |House Robber	                                               | &#9745;    |
 |House Robber II	                                           | &#9745;    |
-|Decode Ways	                                               | &#9744;    |
+|Decode Ways	                                               | &#9745;    |
 |Unique Paths                                                | &#9744;    |
 |Jump Game                                                   | &#9744;    |
 |Word Break                                                  | &#9744;    |
