@@ -304,6 +304,19 @@
       "headingKeywords": {}
     },
     {
+      "src": "contents/dynamic-programming/maximum-product-subarray.md",
+      "title": "Dynamic Programming - Maximum Product Subarray",
+      "headings": {
+        "maximum-product-subarray": "Maximum Product Subarray",
+        "intuition": "Intuition",
+        "contraints": "Contraints",
+        "approach": "Approach",
+        "complexity": "Complexity",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "contents/dynamic-programming/palindromic-substrings.md",
       "title": "Dynamic Programming - Palindromic Substrings",
       "headings": {
