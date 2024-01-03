@@ -5,7 +5,7 @@ _Visit the site [here](https://rexong.github.io/Blind-75/)_
 This repo is documenting my attempt on the Blind 75 questions using Python.
 
 ## Progress
-![](https://progress-bar.dev/71) [53/74]
+![](https://progress-bar.dev/72) [54/74]
 |Question                                                    | Completed? |
 |------------------------------------------------------------|------------|
 |Two Sum	                                                   | &#9745;    |
@@ -70,7 +70,7 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 |Same Tree	                                                 | &#9745;    |
 |Binary Tree Level Order Traversal                           | &#9745;    |
 |Encode and Decode Strings                                   | &#9744;    |
-|Maximum Product Subarray                                    | &#9744;    |
+|Maximum Product Subarray                                    | &#9745;    |
 |Search in Rotated Sorted Array                              | &#9745;    |
 |Counting Bits                                               | &#9745;    |
 |Missing Number                                              | &#9745;    |
