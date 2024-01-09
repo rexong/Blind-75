@@ -69,6 +69,21 @@
       "headingKeywords": {}
     },
     {
+      "src": "contents/arrays-and-hashing/string-encode-and-decode.md",
+      "title": "Arrays & Hashing - String Encode and Decode",
+      "headings": {
+        "string-encode-and-decode": "String Encode and Decode",
+        "intuition": "Intuition",
+        "contraints": "Contraints",
+        "approach": "Approach",
+        "encode": "Encode",
+        "decode": "Decode",
+        "complexity": "Complexity",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "contents/arrays-and-hashing/top-k-frequent-element.md",
       "title": "Arrays & Hashing - Top K Frequent Element",
       "headings": {

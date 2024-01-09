@@ -29,6 +29,7 @@
   * [Top K Frequent Element]({{ baseUrl }}/contents/arrays-and-hashing/top-k-frequent-element.html)
   * [Product of Array Except Self]({{ baseUrl }}/contents/arrays-and-hashing/product-of-array-except-self.html)
   * [Longest Consecutive Sequence]({{ baseUrl }}/contents/arrays-and-hashing/longest-consecutive-sequence.html)
+  * [String Encode and Decode]({{ baseUrl }}/contents/arrays-and-hashing/string-encode-and-decode.html)
 * Stack
   * [Valid Parentheses]({{ baseUrl }}/contents/stack/valid-parentheses.html)
 * Two Pointer
@@ -67,9 +68,9 @@
 * Graphs
   * [Number of Islands]({{ baseUrl }}/contents/graphs/number-of-islands.html)
   * [Clone Graph]({{ baseUrl }}/contents/graphs/clone-graph.html)
-  * [Pacific Atlantic Water Flow]({{ baseUrl }}/contents/graphs/pacific-atlantic-water-flow.md)
-  * [Course Schedule]({{ baseUrl }}/contents/graphs/course-schedule.md)
-  * [Valid Graph]({{ baseUrl }}/contents/graphs/valid-tree.md)
+  * [Pacific Atlantic Water Flow]({{ baseUrl }}/contents/graphs/pacific-atlantic-water-flow.html)
+  * [Course Schedule]({{ baseUrl }}/contents/graphs/course-schedule.html)
+  * [Valid Graph]({{ baseUrl }}/contents/graphs/valid-tree.html)
 * Bit Manipulation
   * [Number of 1 Bits]({{ baseUrl }}/contents/bit-manipulation/number-of-1-bits.html)
   * [Counting Bits]({{ baseUrl }}/contents/bit-manipulation/counting-bits.html)
