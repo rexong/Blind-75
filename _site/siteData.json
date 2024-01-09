@@ -319,6 +319,19 @@
       "headingKeywords": {}
     },
     {
+      "src": "contents/dynamic-programming/longest-increasing-subsequence.md",
+      "title": "Dynamic Programming - Longest Increasing Subsequence",
+      "headings": {
+        "longest-increasing-subsequence": "Longest Increasing Subsequence",
+        "intuition": "Intuition",
+        "contraints": "Contraints",
+        "approach": "Approach",
+        "complexity": "Complexity",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "contents/dynamic-programming/longest-palindromic-substring.md",
       "title": "Dynamic Programming - Longest Palindromic Substring",
       "headings": {
