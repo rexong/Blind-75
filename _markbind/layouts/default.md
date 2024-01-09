@@ -90,6 +90,7 @@
   * [Coin Change]({{ baseUrl }}/contents/dynamic-programming/coin-change.html)
   * [Decode Ways]({{ baseUrl }}/contents/dynamic-programming/decode-ways.html)
   * [Maximum Product Subarray]({{ baseUrl }}/contents/dynamic-programming/maximum-product-subarray.html)
+  * [Unique Paths]({{ baseUrl }}/contents/dynamic-programming/unique-paths.html)
       </site-nav>
     </div>
   </nav>

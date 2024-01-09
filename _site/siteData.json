@@ -345,6 +345,19 @@
       "headingKeywords": {}
     },
     {
+      "src": "contents/dynamic-programming/unique-paths.md",
+      "title": "Dynamic Programming - Unique Paths",
+      "headings": {
+        "unique-paths": "Unique Paths",
+        "intuition": "Intuition",
+        "contraints": "Contraints",
+        "approach": "Approach",
+        "complexity": "Complexity",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "contents/graphs/clone-graph.md",
       "title": "Graphs - Clone Graph",
       "headings": {
