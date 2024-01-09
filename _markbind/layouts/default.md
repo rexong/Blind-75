@@ -69,6 +69,7 @@
   * [Clone Graph]({{ baseUrl }}/contents/graphs/clone-graph.html)
   * [Pacific Atlantic Water Flow]({{ baseUrl }}/contents/graphs/pacific-atlantic-water-flow.md)
   * [Course Schedule]({{ baseUrl }}/contents/graphs/course-schedule.md)
+  * [Valid Graph]({{ baseUrl }}/contents/graphs/valid-tree.md)
 * Bit Manipulation
   * [Number of 1 Bits]({{ baseUrl }}/contents/bit-manipulation/number-of-1-bits.html)
   * [Counting Bits]({{ baseUrl }}/contents/bit-manipulation/counting-bits.html)
