@@ -8,7 +8,7 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 
 ## Progress
 
-![](https://progress-bar.dev/0.8) [60/75]
+![](https://progress-bar.dev/80) [60/75]
 |Question | Completed? |
 |------------------------------------------------------------|------------|
 |Two Sum | &#9745; |
