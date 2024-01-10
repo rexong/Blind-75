@@ -8,7 +8,7 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 
 ## Progress
 
-![](https://progress-bar.dev/80) [60/75]
+![](https://progress-bar.dev/82) [62/75]
 |Question | Completed? |
 |------------------------------------------------------------|------------|
 |Two Sum | &#9745; |
@@ -64,8 +64,8 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 |Unique Paths | &#9745; |
 |Jump Game | &#9744; |
 |Word Break | &#9745; |
-|Meeting Rooms | &#9744; |
-|Meeting Rooms II | &#9744; |
+|Meeting Rooms | &#9745; |
+|Meeting Rooms II | &#9745; |
 |Graph Valid Tree | &#9745; |
 |Number of Connected Components in an Undirected Graph | &#9744; |
 |Alien Dictionary | &#9744; |
