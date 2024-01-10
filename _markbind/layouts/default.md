@@ -71,6 +71,7 @@
   * [Pacific Atlantic Water Flow]({{ baseUrl }}/contents/graphs/pacific-atlantic-water-flow.html)
   * [Course Schedule]({{ baseUrl }}/contents/graphs/course-schedule.html)
   * [Valid Graph]({{ baseUrl }}/contents/graphs/valid-tree.html)
+  * [Count Connected Components]({{ baseUrl }}/contents/graphs/count-connected-components.html)
 * Bit Manipulation
   * [Number of 1 Bits]({{ baseUrl }}/contents/bit-manipulation/number-of-1-bits.html)
   * [Counting Bits]({{ baseUrl }}/contents/bit-manipulation/counting-bits.html)

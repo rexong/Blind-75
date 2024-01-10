@@ -410,6 +410,19 @@
       "headingKeywords": {}
     },
     {
+      "src": "contents/graphs/count-connected-components.md",
+      "title": "Graphs - Count Connected Components",
+      "headings": {
+        "count-connected-components": "Count Connected Components",
+        "intuition": "Intuition",
+        "contraints": "Contraints",
+        "approach": "Approach",
+        "complexity": "Complexity",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "contents/graphs/course-schedule.md",
       "title": "Graphs - Course Schedule",
       "headings": {
