@@ -8,7 +8,7 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 
 ## Progress
 
-![](https://progress-bar.dev/86) [65/75]
+![](https://progress-bar.dev/88) [66/75]
 |Question | Completed? |
 |------------------------------------------------------------|------------|
 |Two Sum | &#9745; |
@@ -51,7 +51,7 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 |Kth Smallest Element in a BST | &#9745; |
 |Merge K Sorted Lists | &#9744; |
 |Find Median from Data Stream | &#9744; |
-|Insert Interval | &#9744; |
+|Insert Interval | &#9745; |
 |Longest Consecutive Sequence | &#9745; |
 |Word Search II | &#9744; |
 |Climbing Stairs | &#9745; |
