@@ -4,7 +4,7 @@
 
 # [Meeting Schedule](https://neetcode.io/problems/meeting-schedule/)
 
-#### Difficulty: Medium
+#### Difficulty: Easy
 
 ### Intuition
 
