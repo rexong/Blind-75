@@ -95,6 +95,8 @@
   * [Longest Increasing Subsequence]({{ baseUrl }}/contents/dynamic-programming/longest-increasing-subsequence.html)
   * [Unique Paths]({{ baseUrl }}/contents/dynamic-programming/unique-paths.html)
   * [Longest Common Subsequence]({{ baseUrl }}/contents/dynamic-programming/longest-common-subsequence.html)
+* Greedy
+  * [Jump Game]({{ baseUrl }}/contents/greedy/jump-game.html)
 * Intervals
   * [Meeting Schedule]({{ baseUrl }}/contents/intervals/meeting-schedule.html)
   * [Meeting Schedule II]({{ baseUrl }}/contents/intervals/meeting-schedule-ii.html)
