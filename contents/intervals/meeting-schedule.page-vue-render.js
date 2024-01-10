@@ -8,7 +8,7 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"sticky":""
 with(this){return _c('h1',{attrs:{"id":"meeting-schedule"}},[_c('a',{attrs:{"href":"https://neetcode.io/problems/meeting-schedule/"}},[_v("Meeting Schedule")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#meeting-schedule","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('h4',{attrs:{"id":"difficulty-medium"}},[_v("Difficulty: Medium"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#difficulty-medium","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h4',{attrs:{"id":"difficulty-easy"}},[_v("Difficulty: Easy"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#difficulty-easy","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"intuition"}},[_v("Intuition"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#intuition","onclick":"event.stopPropagation()"}})])}
