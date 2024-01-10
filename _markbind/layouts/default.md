@@ -98,6 +98,8 @@
 * Intervals
   * [Meeting Schedule]({{ baseUrl }}/contents/intervals/meeting-schedule.html)
   * [Meeting Schedule II]({{ baseUrl }}/contents/intervals/meeting-schedule-ii.html)
+  * [Merge Intervals]({{ baseUrl }}/contents/intervals/merge-intervals.html)
+  * [Non-overlapping Intervals]({{ baseUrl }}/contents/intervals/non-overlapping-intervals.html) 
       </site-nav>
     </div>
   </nav>

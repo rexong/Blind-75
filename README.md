@@ -8,7 +8,7 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 
 ## Progress
 
-![](https://progress-bar.dev/82) [62/75]
+![](https://progress-bar.dev/86) [65/75]
 |Question | Completed? |
 |------------------------------------------------------------|------------|
 |Two Sum | &#9745; |
@@ -19,7 +19,7 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 |Maximum Subarray | &#9744; |
 |Product of Array Except Self | &#9745; |
 |3Sum | &#9745; |
-|Merge Intervals | &#9744; |
+|Merge Intervals | &#9745; |
 |Group Anagrams | &#9745; |
 |Merge Two Sorted Lists | &#9745; |
 |Valid Palindrome | &#9745; |
@@ -37,7 +37,7 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 |Minimum Window Substring | &#9744; |
 |Invert/Flip Binary Tree | &#9745; |
 |Validate Binary Search Tree | &#9745; |
-|Non-overlapping Intervals | &#9744; |
+|Non-overlapping Intervals | &#9745; |
 |Construct Binary Tree from Preorder and Inorder Traversal | &#9745; |
 |Top K Frequent Elements | &#9745; |
 |Clone Graph | &#9745; |
@@ -67,7 +67,7 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 |Meeting Rooms | &#9745; |
 |Meeting Rooms II | &#9745; |
 |Graph Valid Tree | &#9745; |
-|Number of Connected Components in an Undirected Graph | &#9744; |
+|Number of Connected Components in an Undirected Graph | &#9745; |
 |Alien Dictionary | &#9744; |
 |Maximum Depth of Binary Tree | &#9745; |
 |Same Tree | &#9745; |
