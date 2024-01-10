@@ -462,6 +462,19 @@
       "headingKeywords": {}
     },
     {
+      "src": "contents/intervals/meeting-schedule-ii.md",
+      "title": "Intervals - Meeting Schedule II",
+      "headings": {
+        "meeting-schedule-ii": "Meeting Schedule II",
+        "intuition": "Intuition",
+        "contraints": "Contraints",
+        "approach": "Approach",
+        "complexity": "Complexity",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "contents/intervals/meeting-schedule.md",
       "title": "Intervals - Meeting Schedule",
       "headings": {

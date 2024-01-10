@@ -96,6 +96,7 @@
   * [Longest Common Subsequence]({{ baseUrl }}/contents/dynamic-programming/longest-common-subsequence.html)
 * Intervals
   * [Meeting Schedule]({{ baseUrl }}/contents/intervals/meeting-schedule.html)
+  * [Meeting Schedule II]({{ baseUrl }}/contents/intervals/meeting-schedule-ii.html)
       </site-nav>
     </div>
   </nav>
