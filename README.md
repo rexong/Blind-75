@@ -16,7 +16,7 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 |Best Time to Buy and Sell Stock | &#9745; |
 |Valid Anagram | &#9745; |
 |Valid Parentheses | &#9745; |
-|Maximum Subarray | &#9744; |
+|Maximum Subarray | &#9745; |
 |Product of Array Except Self | &#9745; |
 |3Sum | &#9745; |
 |Merge Intervals | &#9745; |
