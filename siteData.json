@@ -475,6 +475,32 @@
       "headingKeywords": {}
     },
     {
+      "src": "contents/greedy/jump-game.md",
+      "title": "Greedy - Jump Game",
+      "headings": {
+        "jump-game": "Jump Game",
+        "intuition": "Intuition",
+        "contraints": "Contraints",
+        "approach": "Approach",
+        "complexity": "Complexity",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/greedy/maximum-subarray.md",
+      "title": "Greedy - Maximum Subarray",
+      "headings": {
+        "maximum-subarray": "Maximum Subarray",
+        "intuition": "Intuition",
+        "contraints": "Contraints",
+        "approach": "Approach",
+        "complexity": "Complexity",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "contents/intervals/insert-interval.md",
       "title": "Intervals - Insert Interval",
       "headings": {
