@@ -50,6 +50,7 @@
   * [Reverse Linked List]({{ baseUrl }}/contents/linked-list/reverse-linked-list.html)
   * [Reorder List]({{ baseUrl }}/contents/linked-list/reorder-list.html)
   * [Remove Nth Node From End of List]({{ baseUrl }}/contents/linked-list/remove-nth-node-from-end-of-list.html)
+  * [Merge K Sorted List]({{ baseUrl }}/contents/linked-list/merge-k-sorted-lists.html)
 * Trees
   * [Invert Binary Tree]({{ baseUrl }}/contents/trees/invert-binary-tree.html)
   * [Maximum Depth of Binary Tree]({{ baseUrl }}/contents/trees/maximum-depth-of-binary-tree.html)
