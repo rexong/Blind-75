@@ -47,7 +47,6 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 |Subtree of Another Tree | &#9745; |
 |Lowest Common Ancestor of BST | &#9745; |
 |Implement Trie (Prefix Tree) | &#9745; |
-|Add and Search Word | &#9744; |
 |Kth Smallest Element in a BST | &#9745; |
 |Merge K Sorted Lists | &#9745; |
 |Find Median from Data Stream | &#9745; |
