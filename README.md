@@ -8,7 +8,7 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 
 ## Progress
 
-![](https://progress-bar.dev/90) [68/75]
+![](https://progress-bar.dev/96) [72/75]
 |Question | Completed? |
 |------------------------------------------------------------|------------|
 |Two Sum | &#9745; |
@@ -34,7 +34,7 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 |Palindromic Substrings | &#9745; |
 |Longest Palindromic Substrings | &#9745; |
 |Pacific Atlantic Water Flow | &#9745; |
-|Minimum Window Substring | &#9744; |
+|Minimum Window Substring | &#9745; |
 |Invert/Flip Binary Tree | &#9745; |
 |Validate Binary Search Tree | &#9745; |
 |Non-overlapping Intervals | &#9745; |
@@ -49,11 +49,11 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 |Implement Trie (Prefix Tree) | &#9745; |
 |Add and Search Word | &#9744; |
 |Kth Smallest Element in a BST | &#9745; |
-|Merge K Sorted Lists | &#9744; |
-|Find Median from Data Stream | &#9744; |
+|Merge K Sorted Lists | &#9745; |
+|Find Median from Data Stream | &#9745; |
 |Insert Interval | &#9745; |
 |Longest Consecutive Sequence | &#9745; |
-|Word Search II | &#9744; |
+|Word Search II | &#9745; |
 |Climbing Stairs | &#9745; |
 |Coin Change | &#9745; |
 |Longest Increasing Subsequence | &#9745; |
