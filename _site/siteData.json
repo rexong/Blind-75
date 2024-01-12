@@ -501,6 +501,18 @@
       "headingKeywords": {}
     },
     {
+      "src": "contents/heap/find-median-from-data-stream.md",
+      "title": "Heap - Find Median from Data Stream",
+      "headings": {
+        "find-median-from-data-stream": "Find Median from Data Stream",
+        "intuition": "Intuition",
+        "approach": "Approach",
+        "complexity": "Complexity",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "contents/intervals/insert-interval.md",
       "title": "Intervals - Insert Interval",
       "headings": {
@@ -895,6 +907,19 @@
       "title": "Tries - Implement Trie (Prefix Tree)",
       "headings": {
         "implement-trie-prefix-tree": "Implement Trie (Prefix Tree)",
+        "intuition": "Intuition",
+        "contraints": "Contraints",
+        "approach": "Approach",
+        "complexity": "Complexity",
+        "solution": "Solution"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/tries/word-search-ii.md",
+      "title": "Tries - Word Search II",
+      "headings": {
+        "word-search-ii": "Word Search II",
         "intuition": "Intuition",
         "contraints": "Contraints",
         "approach": "Approach",

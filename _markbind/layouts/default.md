@@ -64,6 +64,9 @@
 * Tries
   * [Implement Trie (Prefix Tree)]({{ baseUrl }}/contents/tries/implement-trie.html)
   * [Design Add and Search Words Data Structure]({{ baseUrl }}/contents/tries/design-add-and-search-words-data-structure.html)
+  * [Word Search II]({{ baseUrl }}/contents/tries/word-search-ii.html)
+* Heap
+  * [Find Median from Data Stream]({{ baseUrl }}/contents/heap/find-median-from-data-stream.html)
 * Backtracking
   * [Combination Sum]({{ baseUrl }}/contents/backtracking/combination-sum.html)
   * [Word Search]({{ baseUrl }}/contents/backtracking/word-search.html)
