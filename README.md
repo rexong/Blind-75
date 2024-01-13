@@ -67,7 +67,7 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 |Meeting Rooms II | &#9745; |
 |Graph Valid Tree | &#9745; |
 |Number of Connected Components in an Undirected Graph | &#9745; |
-|Alien Dictionary | &#9744; |
+|Foreign Dictionary | &#9744; |
 |Maximum Depth of Binary Tree | &#9745; |
 |Same Tree | &#9745; |
 |Binary Tree Level Order Traversal | &#9745; |
