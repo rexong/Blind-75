@@ -8,7 +8,7 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 
 ## Progress
 
-![](https://progress-bar.dev/96) [72/75]
+![](https://progress-bar.dev/100) [75/75]
 |Question | Completed? |
 |------------------------------------------------------------|------------|
 |Two Sum | &#9745; |
@@ -42,8 +42,8 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 |Top K Frequent Elements | &#9745; |
 |Clone Graph | &#9745; |
 |Course Schedule | &#9745; |
-|Serialize and Deserialize Binary Tree | &#9744; |
-|Binary Tree Maximum Path Sum | &#9744; |
+|Serialize and Deserialize Binary Tree | &#9745; |
+|Binary Tree Maximum Path Sum | &#9745; |
 |Subtree of Another Tree | &#9745; |
 |Lowest Common Ancestor of BST | &#9745; |
 |Implement Trie (Prefix Tree) | &#9745; |
@@ -67,7 +67,7 @@ This repo is documenting my attempt on the Blind 75 questions using Python.
 |Meeting Rooms II | &#9745; |
 |Graph Valid Tree | &#9745; |
 |Number of Connected Components in an Undirected Graph | &#9745; |
-|Foreign Dictionary | &#9744; |
+|Foreign Dictionary | &#9745; |
 |Maximum Depth of Binary Tree | &#9745; |
 |Same Tree | &#9745; |
 |Binary Tree Level Order Traversal | &#9745; |
